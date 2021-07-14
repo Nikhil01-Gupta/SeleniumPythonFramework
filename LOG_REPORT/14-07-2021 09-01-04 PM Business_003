@@ -1,0 +1,16 @@
+2021-07-14 21:01:15,404 :INFO :LoginPage :Entering First Name as admin@yourstore.com 
+2021-07-14 21:01:15,569 :INFO :LoginPage :Entering Password  as admin 
+2021-07-14 21:01:18,639 :INFO :LoginPage :Clicking on Login Button 
+2021-07-14 21:01:31,868 :INFO :CatalogPage :Clicking on Catalog Button 
+2021-07-14 21:01:34,973 :INFO :CatalogPage :Clicking on Product Button 
+2021-07-14 21:01:41,648 :INFO :CatalogPage :Clicking on Add New Product Button 
+2021-07-14 21:01:46,234 :INFO :CatalogPage :Clicking on Product Info Button 
+2021-07-14 21:01:49,234 :INFO :CatalogPage :Enter Product Name 
+2021-07-14 21:01:52,419 :INFO :CatalogPage :Enter Short Description 
+2021-07-14 21:01:55,750 :INFO :CatalogPage :Enter SKU 
+2021-07-14 21:02:02,576 :INFO :CatalogPage :Select Catagoris 
+2021-07-14 21:02:09,032 :INFO :CatalogPage :Select Manufacture 
+2021-07-14 21:02:09,064 :INFO :CatalogPage :Checkbox already selected 
+2021-07-14 21:02:14,400 :INFO :CatalogPage :Select Available Start Date 
+2021-07-14 21:02:18,619 :INFO :CatalogPage :Select Available END Date 
+2021-07-14 21:02:24,915 :INFO :CatalogPage :Click on Save Button 
